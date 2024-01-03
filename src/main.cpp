@@ -119,7 +119,7 @@ void Intake()
             PTOMotorLeft.setVelocity(-100, vex::percent);
             PTOMotorRight.setVelocity(-100, vex::percent);
         }
-        else
+        elsex
         {
             PTOMotorLeft.setVelocity(0, vex::percent);
             PTOMotorRight.setVelocity(0, vex::percent);
